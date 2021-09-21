@@ -18,3 +18,8 @@ This string of code is as rubbish as shit , like shit.
 - **Mode 3**
 
   Customize input characters and generate verification codes according to the length of input characters
+
+
+**Usage example**
+`import card_ver`
+`card_ver.main(mode=1, lang=4)`
