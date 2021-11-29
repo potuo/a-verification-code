@@ -1,7 +1,4 @@
 # a-verification-code
-This is a program to generate verification codes
-
-This string of code is as rubbish as shit , like shit.
 
 `main()`  is the entrance , contains three verification code generation modes
 
